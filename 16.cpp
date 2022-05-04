@@ -9,7 +9,7 @@ int main(){
     cin>>m;
     int arr[m][2];
 
-    bool flag=false;
+    
 
     cout<<"Enter the G :"<<endl;
     for(int i=0;i<m;i++){
@@ -41,17 +41,10 @@ int main(){
         }
         cout<<endl;
     }
-
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-            if(i==j && mat[i][j]==0){
-                flag=true;
-            }
-        }
+    if( m == (n*(n-1))/2 ){
+        cout<<"Yes, This is complete graph."<<endl;
     }
-    if(flag==true){
-        cout<<"Yes"<<endl;
-    }else{
-        cout<<"No"<<endl;
+    else{
+        cout<<"NO, This is not a complete graph."<<endl;
     }
 }
