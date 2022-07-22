@@ -52,10 +52,10 @@ to use this class.
 
 [3.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/3.cpp)
 
-Q4. Use the functions defined in Ques 3 to find check whether the given relation is:__
-a) Equivalent, or__
-b) Partial Order relation, or__
-c) None__
+Q4. Use the functions defined in Ques 3 to find check whether the given relation is:<br />
+a) Equivalent, or<br />
+b) Partial Order relation, <br />
+c) None<br />
 
 [4.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/4.cpp)
 
@@ -89,11 +89,11 @@ force strategy.
 [12.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/12.cpp)
 
 Q13. Write a Program to accept the truth values of variables x and y, and print the truth table of 
-the following logical operations:
-a) Conjunction            f) Exclusive NOR <br />
-b) Disjunction            g) Negation <br />
-c) Exclusive OR           h) NAND <br />
-d) Conditional            i) NOR <br />
+the following logical operations: <br />
+a) Conjunction   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        f) Exclusive NOR <br />
+b) Disjunction   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           g) Negation <br />
+c) Exclusive OR  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        h) NAND <br />
+d) Conditional   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           i) NOR <br />
 e) Bi-conditional
 
 [13.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/13.cpp)
