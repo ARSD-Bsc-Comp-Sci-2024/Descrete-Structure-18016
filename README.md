@@ -29,10 +29,10 @@
 ![science](https://user-images.githubusercontent.com/74259522/168984923-92f64220-af43-40ce-9980-3a17abda41b3.gif)
 
 Q1. Write a Program to create a SET A and determine the cardinality of SET for an input array of 
-elements (repetition allowed) and perform the following operations on the SET:__
+elements (repetition allowed) and perform the following operations on the SET:<br />
 a) ismember (a, A): check whether an element belongs to set or not and return value as
-true/false.__
-b) powerset(A): list all the elements of power set of A.__
+true/false.<br />
+b) powerset(A): list all the elements of power set of A.<br />
 
 [1.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/1.cpp)
 
