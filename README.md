@@ -28,67 +28,67 @@
 ## Practical List Qs
 ![science](https://user-images.githubusercontent.com/74259522/168984923-92f64220-af43-40ce-9980-3a17abda41b3.gif)
 
-1. Write a Program to create a SET A and determine the cardinality of SET for an input array of 
-elements (repetition allowed) and perform the following operations on the SET: 
-a) ismember (a, A): check whether an element belongs to set or not and return value as 
-true/false.
-b) powerset(A): list all the elements of power set of A.
+Q1. Write a Program to create a SET A and determine the cardinality of SET for an input array of 
+elements (repetition allowed) and perform the following operations on the SET:__
+a) ismember (a, A): check whether an element belongs to set or not and return value as
+true/false.__
+b) powerset(A): list all the elements of power set of A.__
 
 [1.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/1.cpp)
 
-2. Create a class SET and take two sets as input from user to perform following SET 
-Operations:
-a) Subset: Check whether one set is a subset of other or not.
-b) Union and Intersection of two Sets.
-c) Complement: Assume Universal Set as per the input elements from the user.
-d) Set Difference and Symmetric Difference between two SETS
-e) Cartesian Product of Sets.
+Q2. Create a class SET and take two sets as input from user to perform following SET 
+Operations:__
+a) Subset: Check whether one set is a subset of other or not.__
+b) Union and Intersection of two Sets.__
+c) Complement: Assume Universal Set as per the input elements from the user.__
+d) Set Difference and Symmetric Difference between two SETS__
+e) Cartesian Product of Sets.__
 
 [2.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/2.cpp)
 
-3. Create a class RELATION, use Matrix notation to represent a relation. Include functions to 
+Q3. Create a class RELATION, use Matrix notation to represent a relation. Include functions to 
 check if a relation is reflexive, Symmetric, Anti-symmetric and Transitive. Write a Program
 to use this class.
 
 [3.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/3.cpp)
 
-4. Use the functions defined in Ques 3 to find check whether the given relation is:
-a) Equivalent, or
-b) Partial Order relation, or
-c) None
+Q4. Use the functions defined in Ques 3 to find check whether the given relation is:__
+a) Equivalent, or__
+b) Partial Order relation, or__
+c) None__
 
 [4.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/4.cpp)
 
-5. Write a Program to generate the Fibonacci Series using recursion.
+Q5. Write a Program to generate the Fibonacci Series using recursion.
 
 [5.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/5.cpp)
 
-6. Write a Program to implement Tower of Hanoi using recursion.
+Q6. Write a Program to implement Tower of Hanoi using recursion.
 
 [6.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/6.cpp)
 
-7. Write a Program to implement binary search using recursion.
+Q7. Write a Program to implement binary search using recursion.
 
 [7.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/7.cpp)
 
-10. Write a Program that generates all the permutations of a given set of digits, with or without 
+Q10. Write a Program that generates all the permutations of a given set of digits, with or without 
 repetition. (For example, if the given set is {1,2}, the permutations are 12 and 21). (One 
 method is given in Liu)
 
 [10.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/10.cpp)
 
-11. Write a Program to calculate Permutation and Combination for an input value n and r using 
+Q11. Write a Program to calculate Permutation and Combination for an input value n and r using 
 recursive formula of nCr and nPr .
 
 [11.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/11.cpp)
 
-12. For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + …+ xn
+Q12. For any number n, write a program to list all the solutions of the equation x1 + x2 + x3 + …+ xn
 = C, where C is a constant (C<=10) and x1, x2,x3,…,xn are nonnegative integers using brute 
 force strategy.
 
 [12.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/12.cpp)
 
-13. Write a Program to accept the truth values of variables x and y, and print the truth table of 
+Q13. Write a Program to accept the truth values of variables x and y, and print the truth table of 
 the following logical operations:
 a) Conjunction            f) Exclusive NOR
 b) Disjunction            g) Negation
@@ -98,7 +98,7 @@ e) Bi-conditional
 
 [13.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/13.cpp)
 
-15. Write a Program to store a function (polynomial/exponential), and then evaluate the 
+Q15. Write a Program to store a function (polynomial/exponential), and then evaluate the 
 polynomial. (For example store f(x) = 4n3 + 2n + 9 in an array and for a given value 
 of n, say n = 5, evaluate (i.e. compute the value of f(5)).
 
