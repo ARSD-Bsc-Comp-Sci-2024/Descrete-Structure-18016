@@ -37,12 +37,12 @@ b) powerset(A): list all the elements of power set of A.<br />
 [1.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/1.cpp)
 
 Q2. Create a class SET and take two sets as input from user to perform following SET 
-Operations:__
-a) Subset: Check whether one set is a subset of other or not.__
-b) Union and Intersection of two Sets.__
-c) Complement: Assume Universal Set as per the input elements from the user.__
-d) Set Difference and Symmetric Difference between two SETS__
-e) Cartesian Product of Sets.__
+Operations:<br />
+a) Subset: Check whether one set is a subset of other or not.<br />
+b) Union and Intersection of two Sets.<br />
+c) Complement: Assume Universal Set as per the input elements from the user.<br />
+d) Set Difference and Symmetric Difference between two SETS<br />
+e) Cartesian Product of Sets.<br />
 
 [2.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/2.cpp)
 
@@ -90,10 +90,10 @@ force strategy.
 
 Q13. Write a Program to accept the truth values of variables x and y, and print the truth table of 
 the following logical operations:
-a) Conjunction            f) Exclusive NOR
-b) Disjunction            g) Negation
-c) Exclusive OR           h) NAND
-d) Conditional            i) NOR
+a) Conjunction            f) Exclusive NOR<br />
+b) Disjunction            g) Negation<br />
+c) Exclusive OR           h) NAND<br />
+d) Conditional            i) NOR<br />
 e) Bi-conditional
 
 [13.cpp](https://github.com/ARSD-Bsc-Comp-Sci-2024/Discrete-Structure-18016/blob/main/13.cpp)
